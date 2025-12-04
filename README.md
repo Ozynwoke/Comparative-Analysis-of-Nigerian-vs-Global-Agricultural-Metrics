@@ -40,11 +40,23 @@ The raw data will be prepared for analysis in the following steps:
 - Ensure relationships can be built in Power BI (using Product ID as key)
 - Validate the accuracy of AI-generated fields
 
-## Data Modeling Plan
+## Key Insights
 
-The data will be organized in Power BI using Product ID as the main key to link:
-- Local production data
-- Global benchmark yield data
-- Trade and dependence information
+Nigeria shows strong agricultural potential but continues to lag behind global benchmarks in productivity. Most crops operate below 50% of global yield performance, signaling opportunities for technological improvement and better farming practices.
 
-These relationships will be used to create a star-schema style model for clearer analysis.
+Trade analysis indicates that while crops like onions, rice, palm oil, shea butter, cashew, and pineapples perform well locally, essential commodities such as milk, wheat, and sugar remain heavily import-dependent. This import pressure creates food security vulnerabilities and restricts export growth.
+
+Between 2018 and 2025, Nigeria achieved a modest improvement in yield, but the gap against global averages remains wide. Closing even a small portion of this yield gap would significantly increase food supply, boost earnings for farmers, and reduce foreign dependency.
+
+## Skills Demonstrated
+
+- Data sourcing and preparation
+- Business questions and KPI definition
+- Data modeling and relationship design
+- Power BI dashboard development
+- Insight storytelling for decision-making
+
+## Tools Used
+
+- Excel – for data preparation
+- Power BI – for modeling and visualizations
