@@ -40,3 +40,11 @@ The raw data will be prepared for analysis in the following steps:
 - Ensure relationships can be built in Power BI (using Product ID as key)
 - Validate the accuracy of AI-generated fields
 
+## Data Modeling Plan
+
+The data will be organized in Power BI using Product ID as the main key to link:
+- Local production data
+- Global benchmark yield data
+- Trade and dependence information
+
+These relationships will be used to create a star-schema style model for clearer analysis.
