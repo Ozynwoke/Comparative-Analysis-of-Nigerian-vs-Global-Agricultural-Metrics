@@ -29,3 +29,14 @@ Dataset includes:
 - State/LGA geographic information for mapping
 - Crop classification categories
 
+## Data Cleaning Plan
+
+The raw data will be prepared for analysis in the following steps:
+
+- Standardize column names and data formats
+- Remove duplicates or incorrect records
+- Separate local and global metrics into structured tables
+- Convert the Excel source into multiple clean CSV datasets
+- Ensure relationships can be built in Power BI (using Product ID as key)
+- Validate the accuracy of AI-generated fields
+
