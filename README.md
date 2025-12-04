@@ -14,4 +14,18 @@ This project will be completed in the following structured phases:
 6. Insights & Reporting
 7. Final Dashboard & Portfolio Presentation
 
-Each phase will be added to the repository step-by-step for clear learning and tracking progress.
+### Agricultural Data (Local & Global Benchmarks)
+
+The `nigeria-agriculture-Project.xlsx` file contains both:
+
+1️⃣ Nigerian agricultural production records  
+2️⃣ Global benchmark yield data for the same crops
+
+Dataset includes:
+- Product name and type
+- Production year (2018 – 2025)
+- Local agricultural metrics (yield, area, total tons)
+- Global yield benchmarks for comparison
+- State/LGA geographic information for mapping
+- Crop classification categories
+
